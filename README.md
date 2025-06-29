@@ -1,4 +1,4 @@
-### Welcome to my Github profile 👋
+### Welcome to my Github profile
 
 -  Android development
 -  C++/OpenGL development
